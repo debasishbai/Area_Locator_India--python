@@ -1,10 +1,16 @@
+
+# This python script will take an Indian pin code as input 
+# and makes a REST call to "postalpincode.in". 
+# It receives the data in JSON format from the provider
+# It then parses the JSON and displays the result.
+
 import json
 from time import sleep
+# pip install requests
 import requests
-
-# This function will take an Indian pin code as input and displays all the areas associated with it.
  
-def locate(x):
+
+ def locate(x):
     
     # This is the url to which we're going to send the request
     template = "http://postalpincode.in/api/pincode/"
@@ -15,7 +21,7 @@ def locate(x):
     # Making the request
     data = requests.get(url)
 
-    # Using the buit-in json decoder from the requests module 
+    # Using the buit-in json decoder from the requests module to parse the json 
     js = data.json()
 
     print("Retrieving Data",end=' ')
