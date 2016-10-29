@@ -1,3 +1,6 @@
+# This is a sample json file from the provider.
+
+
 {
   "Message": "Number of Post office(s) found: 4",
   "Status": "Success",
