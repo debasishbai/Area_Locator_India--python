@@ -1,0 +1,58 @@
+{
+  "Message": "Number of Post office(s) found: 4",
+  "Status": "Success",
+  "PostOffice": [
+    {
+      "Name": "Agara",
+      "Description": "",
+      "BranchType": "Branch Post Office",
+      "DeliveryStatus": "Non-Delivery",
+      "Taluk": "Bangalore South",
+      "Circle": "Bangalore South",
+      "District": "Bangalore",
+      "Division": "Bangalore South",
+      "Region": "Bangalore HQ",
+      "State": "Karnataka",
+      "Country": "India"
+    },
+    {
+      "Name": "Koramangala",
+      "Description": "",
+      "BranchType": "Sub Post Office",
+      "DeliveryStatus": "Delivery",
+      "Taluk": "Bangalore South",
+      "Circle": "Bangalore South",
+      "District": "Bangalore",
+      "Division": "Bangalore South",
+      "Region": "Bangalore HQ",
+      "State": "Karnataka",
+      "Country": "India"
+    },
+    {
+      "Name": "Koramangala I Block",
+      "Description": "",
+      "BranchType": "Sub Post Office",
+      "DeliveryStatus": "Non-Delivery",
+      "Taluk": "Bangalore South",
+      "Circle": "Bangalore South",
+      "District": "Bangalore",
+      "Division": "Bangalore South",
+      "Region": "Bangalore HQ",
+      "State": "Karnataka",
+      "Country": "India"
+    },
+    {
+      "Name": "St. John's Medical College",
+      "Description": "",
+      "BranchType": "Sub Post Office",
+      "DeliveryStatus": "Non-Delivery",
+      "Taluk": "Bangalore South",
+      "Circle": "Bangalore South",
+      "District": "Bangalore",
+      "Division": "Bangalore South",
+      "Region": "Bangalore HQ",
+      "State": "Karnataka",
+      "Country": "India"
+    }
+  ]
+}
